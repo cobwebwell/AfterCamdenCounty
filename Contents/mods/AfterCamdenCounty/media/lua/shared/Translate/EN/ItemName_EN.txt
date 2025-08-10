@@ -1,0 +1,7 @@
+ItemName_EN = {
+    ItemName_Base.Shirt_Baseball_KY = "Camden Baseball Shirt",
+	ItemName_Base.Hat_BaseballCapKY = "Camden Baseball Cap",
+    ItemName_Base.Hat_BaseballCapKY_Red = "Camden Baseball Cap",
+    ItemName_Base.Hat_BaseballCapKY_Reverse = "Camden Baseball Cap",
+	ItemName_Base.Hat_BaseballHelmet_KY = "Camden Baseball Helmet",
+}
